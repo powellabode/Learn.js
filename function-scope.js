@@ -13,4 +13,4 @@
   }
 
   let tempOne = convertFahrenheitToCelsius(32)
-  let tempTwo = convertFahrenheitToCelsius(68)
+  let tempTwo = convertFahrenheitToCelsius(68);
